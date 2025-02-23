@@ -11,6 +11,7 @@ public class Q3AA12_CHA_EstinosoRocaTaiño {
 
     public static void main(String[] args) {
        int gar = 4;
+       int far = 8;
     }
 
     
